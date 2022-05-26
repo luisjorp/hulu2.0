@@ -23,7 +23,7 @@ function Header() {
 
             <Image
                 className="object-contain"
-                src="https://links.papareact.com/ua6"
+                src="/isologo.svg"
                 alt="This is the header"
                 width={200}
                 height={100}
