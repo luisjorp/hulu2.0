@@ -8,8 +8,8 @@ export default function Home({results}) {
     return (
         <div>
             <Head>
-                <title>Hulu 2.0</title>
-                <meta name="description" content="Hulu 2.0 built by LuisJo.dev"/>
+                <title>Devstream</title>
+                <meta name="description" content="Devstream built by LuisJo.dev"/>
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
             <Header/>
